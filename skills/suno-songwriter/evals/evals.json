@@ -1,0 +1,23 @@
+{
+  "skill_name": "suno-songwriter",
+  "evals": [
+    {
+      "id": 1,
+      "prompt": "Write me a 4 minute country song about an old man who got taken from his wife by the system. Guardianship abuse, she couldn't even visit him. Make it angry but sad. Something like outlaw country, think Johnny Cash vibes.",
+      "expected_output": "Complete song package with Style Prompt (country/outlaw with BPM), Lyrics with proper meta tags and structure, Extension Plan, and Settings. Should be emotional and narrative-driven with concrete imagery.",
+      "files": []
+    },
+    {
+      "id": 2,
+      "prompt": "I need a song for suno, like a dark electronic track, maybe synthwave or something cinematic. About fighting corruption alone when nobody believes you. 4 minutes, male vocals, make it intense.",
+      "expected_output": "Complete song package with electronic/cinematic Style Prompt with exact BPM, fully tagged Lyrics with builds and drops, Extension Plan for 4 min, Settings with appropriate weirdness level.",
+      "files": []
+    },
+    {
+      "id": 3,
+      "prompt": "write a love song, acoustic folk, about remembering the good times with someone who's gone. gentle, female vocals, maybe 3 minutes. think like a campfire song but heartbreaking.",
+      "expected_output": "Complete song package with folk/acoustic Style Prompt, Lyrics under 3000 chars with proper verse/chorus/bridge tags, Settings. Should be intimate and specific, not generic.",
+      "files": []
+    }
+  ]
+}

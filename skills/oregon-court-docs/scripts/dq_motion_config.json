@@ -1,0 +1,110 @@
+{
+  "county": "MARION",
+  "plaintiff": {
+    "name": "PATRICIA BINGAMAN, as Personal\nRepresentative of the Estate of\nRUSSELL BINGAMAN, Deceased,\nthrough LEVI BAKKE, Authorized Agent",
+    "address": ["501 C Avenue", "La Grande, OR 97850", "Phone: (971) 303-4982", "Email: levi@valorinvestigates.com"]
+  },
+  "defendant": {
+    "name": "OREGON DEPARTMENT OF\nHUMAN SERVICES"
+  },
+  "caseNumber": "26CV11493",
+  "documentTitle": "MOTION TO DISQUALIFY\nATTORNEY GENERAL'S OFFICE",
+  "footerTitle": "MOTION TO DISQUALIFY ATTORNEY GENERAL'S OFFICE",
+  "captionExtras": [],
+  "body": [
+    {
+      "runs": [{ "text": "MOTION TO DISQUALIFY THE ATTORNEY GENERAL'S OFFICE", "bold": true, "underline": {} }],
+      "alignment": "center",
+      "spacing": { "after": 360 }
+    },
+    {
+      "runs": [
+        { "text": "COMES NOW " },
+        { "text": "Petitioner, through Levi Bakke as authorized agent for the Personal Representative, and moves this Court to disqualify the Oregon Attorney General's Office from representing the Oregon Department of Human Services (DHS) in this proceeding. This motion is based on the following grounds:" }
+      ],
+      "spacing": { "after": 360, "line": 360 },
+      "indent": { "firstLine": 720 }
+    },
+    {
+      "runs": [{ "text": "I. THE AG'S OFFICE IS ARGUING AGAINST ITS OWN PRIOR POSITION", "bold": true, "underline": {} }],
+      "spacing": { "after": 240 }
+    },
+    {
+      "runs": [
+        { "text": "The Attorney General's Trial Division signed the order compelling DHS to produce records in this matter. DHS defied that order. The AG's office now appears to defend DHS's defiance of the AG's own order. The AG is literally arguing against the AG's own prior position -- a structural impossibility for competent representation." }
+      ],
+      "spacing": { "after": 360, "line": 360 },
+      "indent": { "firstLine": 720 }
+    },
+    {
+      "runs": [{ "text": "II. THE AG RUNS THE MEDICAID FRAUD CONTROL UNIT", "bold": true, "underline": {} }],
+      "spacing": { "after": 240 }
+    },
+    {
+      "runs": [
+        { "text": "The AG operates Oregon's Medicaid Fraud Control Unit (MFCU), which is federally mandated under 42 CFR Part 1007 to investigate Medicare and Medicaid fraud and abuse or neglect in healthcare facilities, including adult foster homes. DHS is obstructing CMS Investigation #6567616, an active federal investigation into Medicare hospice fraud at the adult foster home where Russell Bingaman died. The AG cannot simultaneously defend DHS's obstruction of this federal investigation while being federally mandated to investigate the underlying fraud." }
+      ],
+      "spacing": { "after": 360, "line": 360 },
+      "indent": { "firstLine": 720 }
+    },
+    {
+      "runs": [{ "text": "III. THE AG'S OFFICE POSSESSES EVIDENCE AGAINST DHS", "bold": true, "underline": {} }],
+      "spacing": { "after": 240 }
+    },
+    {
+      "runs": [
+        { "text": "The AG's office possesses 13 investigative reports, including 11 RICO impact reports, delivered on a thumb drive to the Department of Justice by the undersigned. These reports document DHS's role in obstructing the investigation from the La Grande field office through Salem headquarters to the Director's Office. The AG cannot competently defend DHS while its other divisions possess evidence that DHS is participating in obstruction of a federal investigation." }
+      ],
+      "spacing": { "after": 360, "line": 360 },
+      "indent": { "firstLine": 720 }
+    },
+    {
+      "runs": [{ "text": "IV. OREGON RPC 1.7(a)(2) PROHIBITS THIS REPRESENTATION", "bold": true, "underline": {} }],
+      "spacing": { "after": 240 }
+    },
+    {
+      "runs": [
+        { "text": "Oregon Rule of Professional Conduct 1.7(a)(2) prohibits representation where there is a significant risk that the representation will be materially limited by the lawyer's responsibilities to another client, a former client, or a third person. The AG's duty to operate the MFCU and investigate Medicaid fraud materially limits the AG's ability to zealously defend DHS against allegations that DHS is covering up that same fraud. This is not a theoretical conflict -- it is an active, irreconcilable structural conflict." }
+      ],
+      "spacing": { "after": 360, "line": 360 },
+      "indent": { "firstLine": 720 }
+    },
+    {
+      "runs": [{ "text": "V. ORS 180.235 PROVIDES THE REMEDY", "bold": true, "underline": {} }],
+      "spacing": { "after": 240 }
+    },
+    {
+      "runs": [
+        { "text": "ORS 180.235 provides that when the AG concludes concurrent representation would \"create or tend to create a conflict of interest,\" the AG may authorize the agency to employ its own special counsel. The AG has failed to self-identify this obvious conflict. This Court has inherent authority to identify the conflict the AG will not." }
+      ],
+      "spacing": { "after": 360, "line": 360 },
+      "indent": { "firstLine": 720 }
+    },
+    {
+      "runs": [{ "text": "RELIEF REQUESTED", "bold": true, "underline": {} }],
+      "alignment": "center",
+      "spacing": { "after": 240 }
+    },
+    {
+      "runs": [
+        { "text": "Petitioner respectfully requests that this Court:" }
+      ],
+      "spacing": { "after": 240, "line": 360 },
+      "indent": { "firstLine": 720 }
+    },
+    {
+      "runs": [
+        { "text": "1. Disqualify the Attorney General's Office from representing DHS in this proceeding; and" }
+      ],
+      "spacing": { "after": 120, "line": 360 },
+      "indent": { "left": 1440 }
+    },
+    {
+      "runs": [
+        { "text": "2. Either (a) continue this hearing to allow DHS to retain independent counsel under ORS 180.235, or (b) proceed without the AG's participation." }
+      ],
+      "spacing": { "after": 480, "line": 360 },
+      "indent": { "left": 1440 }
+    }
+  ]
+}
